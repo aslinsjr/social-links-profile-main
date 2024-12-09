@@ -23,8 +23,8 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/aslinsjr/url-shortening)
-- Live Site URL: [Page](https://url-shortening-vert.vercel.app/)
+- Solution URL: [Repository](https://github.com/aslinsjr/social-links-profile-main)
+- Live Site URL: [Page](https://aslinsjr.github.io/social-links-profile-main/)
 
 ## My process
 
